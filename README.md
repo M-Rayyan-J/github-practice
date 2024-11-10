@@ -1,3 +1,3 @@
 # github-practice
 This is a practice repository
-sohair cartoon
+This a basic task
